@@ -24,7 +24,7 @@
 ```bash
 python -m venv .venv
 .venv\Scripts\activate
-pip install jupyterlab transformers torch pandas
+pip install jupyterlab transformers torch pandas scikit-learn
 jupyter lab
 ```
 
