@@ -16,6 +16,7 @@
 |------|----------------|
 | [01_tokenization.ipynb](01_tokenization.ipynb) | WordPiece tokenization, token vs word, cost and context implications |
 | [02_embeddings.ipynb](02_embeddings.ipynb) | Token embeddings, sentence embeddings via mean pooling, cosine similarity |
+| [03_pandas_nlp.ipynb](03_pandas_nlp.ipynb) | Pandas for NLP data manipulation and text processing |
 
 ## Setup
 
