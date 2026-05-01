@@ -27,6 +27,7 @@ By the end of this week, you'll understand:
 - What embeddings are and how to compute semantic similarity
 - Text preprocessing techniques using Pandas
 - Classical vs modern approaches to text classification
+- How evaluation metrics work and why they matter for NLP model comparison
 
 ## Notebooks
 
@@ -50,15 +51,6 @@ week1-nlp-foundations/
 ├── 04_text_classification.ipynb # Text classification models
 └── 05_evaluation_metrics.ipynb  # Model evaluation metrics
 ```
-
-## Notebooks
-
-| File | What it covers |
-|------|----------------|
-| [01_tokenization.ipynb](01_tokenization.ipynb) | WordPiece tokenization, token vs word, cost and context implications |
-| [02_embeddings.ipynb](02_embeddings.ipynb) | Token embeddings, sentence embeddings via mean pooling, cosine similarity |
-| [03_pandas_nlp.ipynb](03_pandas_nlp.ipynb) | Pandas for NLP data manipulation and text processing |
-| [04_text_classification.ipynb](04_text_classification.ipynb) | TF-IDF vs embeddings, text classification with DistilBERT |
 
 ## Setup
 
