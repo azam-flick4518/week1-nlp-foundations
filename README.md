@@ -1,6 +1,6 @@
 # Week 1 — NLP Foundations
 
-> Covers tokenization, embeddings, semantic similarity, text classification, and imbalanced classification from first principles.
+> Covers tokenization, embeddings, semantic similarity, text classification, imbalanced classification, and model finetuning from first principles.
 
 ## Prerequisites
 
@@ -29,6 +29,7 @@ By the end of this week, you'll understand:
 - Classical vs modern approaches to text classification
 - How evaluation metrics work and why they matter for NLP model comparison
 - How to handle imbalanced classification problems in NLP
+- Fine-tuning pretrained models for specific NLP tasks
 
 ## Notebooks
 
@@ -40,6 +41,7 @@ By the end of this week, you'll understand:
 | [04_text_classification.ipynb](04_text_classification.ipynb) | TF-IDF vs embeddings, text classification with DistilBERT |
 | [05_evaluation_metrics.ipynb](05_evaluation_metrics.ipynb) | Evaluation metrics for NLP models (accuracy, precision, recall, F1-score) |
 | [06_imbalanced_classification.ipynb](06_imbalanced_classification.ipynb) | Handling imbalanced text classification with appropriate metrics and sampling techniques |
+| [07_finetuning.ipynb](07_finetuning.ipynb) | Fine-tuning pretrained language models for custom NLP tasks |
 
 ## Project Structure
 
@@ -52,7 +54,8 @@ week1-nlp-foundations/
 ├── 03_pandas_nlp.ipynb          # Text processing with Pandas
 ├── 04_text_classification.ipynb # Text classification models
 ├── 05_evaluation_metrics.ipynb  # Model evaluation metrics
-└── 06_imbalanced_classification.ipynb # Imbalanced NLP classification
+├── 06_imbalanced_classification.ipynb # Imbalanced NLP classification
+└── 07_finetuning.ipynb          # Fine-tuning pretrained models
 ```
 
 ## Setup
