@@ -36,6 +36,7 @@ By the end of this week, you'll understand:
 | [02_embeddings.ipynb](02_embeddings.ipynb) | Token embeddings, sentence embeddings via mean pooling, cosine similarity |
 | [03_pandas_nlp.ipynb](03_pandas_nlp.ipynb) | Pandas for NLP data manipulation and text processing |
 | [04_text_classification.ipynb](04_text_classification.ipynb) | TF-IDF vs embeddings, text classification with DistilBERT |
+| [05_evaluation_metrics.ipynb](05_evaluation_metrics.ipynb) | Evaluation metrics for NLP models (accuracy, precision, recall, F1-score) |
 
 ## Project Structure
 
@@ -46,7 +47,8 @@ week1-nlp-foundations/
 ├── 01_tokenization.ipynb        # Tokenization fundamentals
 ├── 02_embeddings.ipynb          # Embeddings and similarity
 ├── 03_pandas_nlp.ipynb          # Text processing with Pandas
-└── 04_text_classification.ipynb # Text classification models
+├── 04_text_classification.ipynb # Text classification models
+└── 05_evaluation_metrics.ipynb  # Model evaluation metrics
 ```
 
 ## Notebooks
